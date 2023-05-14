@@ -32,4 +32,4 @@ async def mem(ctx):
         picture = discord.File(f)
     await ctx.send(file=picture)
 
-bot.run("MTEwMjI5NjMwODk5MzIzMjk5OQ.G4PkXg.tbVyat3Df0ZBiKVaUqDBbHQdsklkH4tP-PnZlY")
+bot.run("")
